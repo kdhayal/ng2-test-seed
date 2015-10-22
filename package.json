@@ -25,5 +25,8 @@
     "rimraf": "^2.4.3",
     "systemjs": "^0.19.4",
     "typescript": "1.6.2"
+  },
+  "dependencies": {
+    "es6-shim": "^0.33.6"
   }
 }
